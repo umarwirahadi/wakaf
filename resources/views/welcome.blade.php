@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Wakaf tanah - Almutawally</title>
+  <title>Wakaf - Almutawally</title>
   <meta content="wakaf pesantren" name="description">
   <meta content="wakaf almutawally" name="keywords">
 
@@ -13,10 +13,14 @@
   <link href="/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Fonts -->
-  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
+
+  {{-- <link href="https://fonts.googleapis.com" rel="preconnect">
   <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-
+ --}}
   <!-- Vendor CSS Files -->
   <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link href="/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
@@ -80,16 +84,15 @@
 
       <div class="container">
         <div class="row gy-4">
-          <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="zoom-out">
-            <h1 class="">Program Wakaf Pembangunan Masjid</h1>
-            <h1 class="">Zainal Abidin</h1>
-            <p class="">Pengembangan Kampus 2 Pesantren Terpadu Al-Mutawally</p>
+          <div class="col-lg-8 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="zoom-out">
+            <h2 class="">Wakaf Pengembangan Kampus 2 </h2>
+            <h1 class="">Pesantren Terpadu Al-Mutawally</h1>
             <p class="">Patalagan-Pancalang-Kuningan-Jawa Barat </p>
             <div class="d-flex">
               <a href="https://wa.me/6283824611988" class="btn-get-started" target="__blank">Wakaf Sekarang</a>
             </div>
           </div>
-          <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="200">
+          <div class="col-lg-4 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="200">
             <img src="/assets/img/masjid.png" class="img-fluid animated" alt="">
           </div>
         </div>
@@ -159,20 +162,22 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2 class="">Bahagianya Saat kita sudah Wafat
-          dan tidak bisa Beramal lagi</h2>
-      </div><!-- End Section Title -->
-
+        <h2 class=""><i>
+          “Kamu sekali-kali tidak sampai kepada kebajikan (yang sempurna) sebelum kamu menafkahkan sebagian dari apa yang kamu cintai.”
+        </i>
+        </h2>
+        (Q.S. Ali Imran: 92)
+      </div>
       <div class="container">
 
         <div class="row gy-4">
 
           <div class="col-lg-12 content" data-aos="fade-up" data-aos-delay="100">
             <p>
-              
-kita di do'akan setiap hari oleh santri yang membaca dan menghafal Al-Quran di atas tanah yang kita wakafkan.
-Walau Hanya 1 Meter namun akan tetap terus mengirimkan Pahala kepada kita
-
+              Pesantren Terpadu Al Mutawally tengah mengembangkan kampus kedua seluas 2 hektar di Desa Patalagan, Pancalang, Kuningan, Jawa Barat, dalam upaya pengembangan pendidikan dan dakwah Islam. Rencananya, kampus ini akan dilengkapi dengan fasilitas seperti masjid, asrama santri, aula, ruang kelas, lapangan olahraga, dan fasilitas penunjang lainnya untuk mendukung proses belajar mengajar. Pembangunan kampus ini diharapkan dapat mencetak generasi Muslim yang mandiri, sholeh, ‘alim, komunikatif, dan visioner.
+            </p>
+            <p>
+              Selain sebagai investasi properti, memiliki tanah wakaf untuk pesantren dianggap sebagai investasi akhirat dan berkah masa depan. Tanah wakaf di pesantren tidak hanya memberikan manfaat dalam kehidupan dunia, tetapi juga di akhirat, karena menjadi bagian dari perjalanan pendidikan umat Islam dan mendatangkan pahala yang tak terhingga dari Allah SWT.
             </p>
            
           </div>
@@ -192,52 +197,25 @@ Walau Hanya 1 Meter namun akan tetap terus mengirimkan Pahala kepada kita
 
         <div class="row gy-4">
 
-          <div class="col-lg-7 d-flex flex-column justify-content-center order-2 order-lg-1">
+          <div class="col-lg-8 d-flex flex-column justify-content-center order-2 order-lg-1">
 
             <div class="content px-xl-5" data-aos="fade-up" data-aos-delay="100">
               <h3 class=""><span class="">Sejarah singkat </span><strong>Pesantren Al-Mutawally</strong></h3>
-              <p class="">
-                Yayasan Al-Mutawally memiliki akar sejarah yang sangat panjang, persis 2 abad lamanya, Nama Al-Mutawally (sang pengangkat) merupakan gelar yang diberikan kepada sosok kiyai summa wali 
-yang bernama KH Sirojurrosyidin, gelar itu sendiri diberikan kepada beliau atas jasanya yang berhasil menghidupkan kembali mesin kapal yang membawa beliau dan calon jemaah haji asal nusantara untuk pergi menuju tanah suci, beliau lahir pada tahun 1818 dan meninggal tahun 1953 atau berusia sekitar 135 tahun.
-<br>Beliau adalah putra Abah Qona’an, perintis pesantren di kampung Huludayeuh Timbang dan cucu Eyang Maijah yang merupakan keturunan ke 11 dari Sunan Gunung Djati dari jalur Maulana Hasanudin Banten dan makamnya di atas bukit Panyamunan, setelah kembali dari ibadah haji, beliau mulai merintis pesantren di kampung Gibug, sekarang menjadi bagian dari Desa Bojong pada akhir abad ke 19.
-<br>Salah satu bukti peninggalan beliau adalah Mushalla Sirajurrosyidin ath-Thohiriyah yang letaknya persis di belakang kampus Al-Mutawally. Kegagalan untuk mempersiapkan pengganti berakibat pada runtuhnya pesantren pada saat beliau wafat pada tahun 1953. Tanah-tanah beliau yang konon katanya luas sekali secara perlahan namun pasti terpecah-pecah dibagikan kepada anak-anak dan menantu.
-<br>Singkatnya, pesantren yang dulu dipenuhi dan diramaikan oleh anak-anak santri kemudian seperti menghilang dan menyisakan orang-orang yang tidak memahami dan mengamalkan ajaran agama.
-
-              </p>
-            </div>
-
-           {{--  <div class="faq-container px-xl-5" data-aos="fade-up" data-aos-delay="200">
-
-              <div class="faq-item faq-active">
-
-                <h3><span>01</span> Non consectetur a erat nam at lectus urna duis?</h3>
-                <div class="faq-content">
-                  <p>Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item">
-                <h3><span>02</span> Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?</h3>
-                <div class="faq-content">
-                  <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item">
-                <h3><span>03</span> Dolor sit amet consectetur adipiscing elit pellentesque?</h3>
-                <div class="faq-content">
-                  <p>Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-            </div> --}}
+              <p>
+                Pesantren Al-Mutawally memiliki sejarah yang panjang, dimulai dua abad lalu yang terinspirasi dari KH. Mutawally, yang nama aslinya KH. Sirojurrasyidin, seorang ulama besar di Kuningan pada masanya. Gelar "Mutawally" diberikan atas "karomah"nya yang dapat menghidupkan mesin kapal laut yang tiba-tiba mati saat perjalanan haji. Beliau adalah putra KH. Qona’an, perintis Pesantren di Huludayeuh, Timbang, dan keturunan
+ke-11 dari Sunan Gunung Djati.</p>
+<p>
+  Setelah melaksanakan ibadah haji, KH. Mutawally mendirikan pesantren di Gibug, Desa Bojong Cilimus Kuningan pada akhir
+abad ke-19, yang santrinya dari berbagai daerah di pulau jawa. Namun sepeninggalnya pada tahun 1953, Pesantren tersebut mengalami kevakuman, yang tersisa hanya kegiatan pengajian Kamisan di Mushalla Sirajurrosyidin ath-Thohiriyah
+</p>
+<p>
+  Baru di era generasi ketiga dan keempat, yang dimulai  dengan pendirian Yayasan Al Mutawally pada 1989, perintisan Pesantren Al Mutawally dimulai, di bawah Ketua Yayasan bapak Moch. Rozak, B.A., dan dilanjutkan oleh bapak Drs. KH. Nunung Abdullah Dunun. Saat ini, Ketua Yayasan sekaligus Direktur Pesantren Terpadu Al Mutawally adalah Prof. KH. Didin Nurul Rosidin, M.A. PhD. Alhamdulillah di bawah kepemimpinannya, Yayasan/Pesantren Al Mutawally tumbuh pesat dan memiliki berbagai lembaga pendidikan termasuk Pesantren Terpadu, Madrasah Tsanawiyah, dan Madrasah Aliyah, serta memiliki rencana pengembangan lebih lanjut dengan kampus baru di Desa Patalagan.
+</p>           
+            </div>         
 
           </div>
 
-          <div class="col-lg-5 order-1 order-lg-2 why-us-img">
+          <div class="col-lg-4 order-1 order-lg-2 why-us-img">
             <img src="assets/img/Pengasuh.png" class="img-fluid" alt="pengasuh pesantren al-mutawally" data-aos="zoom-in" data-aos-delay="50">
           </div>
         </div>
@@ -352,28 +330,7 @@ yang bernama KH Sirojurrosyidin, gelar itu sendiri diberikan kepada beliau atas 
 
       </div>
 
-    </section><!-- /Services Section -->
-
-    <!-- Call To Action Section -->
-    <section id="call-to-action" class="call-to-action section">
-
-      <img src="assets/img/almunawar.png" alt="">
-
-      <div class="container">
-
-        <div class="row" data-aos="zoom-in" data-aos-delay="100">
-          <div class="col-xl-9 text-center text-xl-start">
-            <h3>Layanan Infaq Center</h3>
-            <p>Layanan Infaq Center adalah unit dari lembaga Pondok Pesantren Al-Mutawally yang bertujuan untuk menghimpun dan mendistribusikan infaq atau sumbangan dari masyarakat kepada berbagai kegiatan sosial, amal, atau kegiatan lainnya yang membutuhkan dukungan finansial.</p>            
-          </div>
-          <div class="col-xl-3 cta-btn-container text-center">
-            <a class="cta-btn align-middle" href="#">Call To Action</a>
-          </div>
-        </div>
-
-      </div>
-
-    </section><!-- /Call To Action Section -->
+    </section><!-- /Services Section -->   
 
     <!-- Portfolio Section -->
     <section id="portfolio" class="portfolio section">
@@ -510,7 +467,7 @@ yang bernama KH Sirojurrosyidin, gelar itu sendiri diberikan kepada beliau atas 
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <div class="team-member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/profile.png" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="{{ asset('storage/images/pengurus/Prof_H_Didin_Nurul_Rosidin_S.Ag_MA_Ph_D.png') }}" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Prof.H. Didin Nurul Rosidin, S.Ag. MA, Ph.D</h4>
                 <span>Ketua</span>
@@ -527,7 +484,7 @@ yang bernama KH Sirojurrosyidin, gelar itu sendiri diberikan kepada beliau atas 
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
             <div class="team-member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/profile.png" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="{{ asset('storage/images/pengurus/Dr_H_Mahbub Nuryadien_M_Ag.png') }}" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Drs. H. Mahbub Nuryadien, M.Ag</h4>
                 <span>Wakil Ketua</span>
@@ -544,7 +501,7 @@ yang bernama KH Sirojurrosyidin, gelar itu sendiri diberikan kepada beliau atas 
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/profile.png" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="{{ asset('storage/images/pengurus/Ikin_Sodiki_S.PdI.png') }}" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Ikin Sodikin, S.Pd.I</h4>
                 <span>Sekretaris</span>
@@ -560,7 +517,7 @@ yang bernama KH Sirojurrosyidin, gelar itu sendiri diberikan kepada beliau atas 
           </div><!-- End Team Member -->
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/profile.png" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="{{ asset('storage/images/pengurus/Uud_Syafruddin_S_HI.png') }}" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Uud Syafruddin, S.HI</h4>
                 <span>Wakil Sekretaris</span>
@@ -576,7 +533,7 @@ yang bernama KH Sirojurrosyidin, gelar itu sendiri diberikan kepada beliau atas 
           </div><!-- End Team Member -->
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/profile-women.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="{{ asset('storage/images/pengurus/Hj_Aan_Nurhasanah_S.Ag.png') }}" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4> Hj. Aan Nurhasanah, S.Ag</h4>
                 <span>Bendahara</span>
@@ -592,7 +549,7 @@ yang bernama KH Sirojurrosyidin, gelar itu sendiri diberikan kepada beliau atas 
           </div><!-- End Team Member -->
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/profile.png" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="{{ asset('storage/images/pengurus/profile.png') }}" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Encu Abdul Hafidz, S.EI</h4>
                 <span>Wakil Bendahara</span>
@@ -626,47 +583,53 @@ yang bernama KH Sirojurrosyidin, gelar itu sendiri diberikan kepada beliau atas 
 
         <div class="row gy-4">
 
-          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="100">
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="60">
             <div class="pricing-item">
               <h3>Plan 1</h3>
-              <h4><sup>Rp</sup>100.000<span> / Paket</span></h4>
-              <ul>
-                <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
-                <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
-                <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
-                <li class="na"><i class="bi bi-x"></i> <span>Pharetra massa massa ultricies</span></li>
-                <li class="na"><i class="bi bi-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-              </ul>
+              <h4><sup>Rp</sup>100.000<span> / Paket</span></h4>             
               <a href="#" class="buy-btn">Wakaf sekarang</a>
             </div>
           </div><!-- End Pricing Item -->
 
-          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
-            <div class="pricing-item featured">
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="120">
+            <div class="pricing-item">
               <h3>Plan 2</h3>
-              <h4><sup>Rp</sup>200.000<span> / Paket</span></h4>
-              <ul>
-                <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
-                <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
-                <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
-                <li><i class="bi bi-check"></i> <span>Pharetra massa massa ultricies</span></li>
-                <li><i class="bi bi-check"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-              </ul>
+              <h4><sup>Rp</sup>500.000<span> / Paket</span></h4>              
               <a href="#" class="buy-btn">Wakaf Sekarang</a>
+            </div>
+          </div><!-- End Pricing Item -->
+
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="180">
+            <div class="pricing-item">
+              <h3>Plan 3</h3>
+              <h4><sup>Rp</sup>1.000.000<span> / Paket</span></h4>              
+              <a href="#" class="buy-btn">Wakaf Sekarang</a>
+            </div>
+          </div><!-- End Pricing Item -->
+
+        </div>
+        <div class="row gy-4 mt-3">
+
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="240">
+            <div class="pricing-item">
+              <h3>Plan 4</h3>
+              <h4><sup>Rp</sup>5.000.000<span> / Paket</span></h4>             
+              <a href="#" class="buy-btn">Wakaf sekarang</a>
             </div>
           </div><!-- End Pricing Item -->
 
           <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="pricing-item">
-              <h3>Plan 3</h3>
-              <h4><sup>Rp</sup>300.000<span> / Paket</span></h4>
-              <ul>
-                <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
-                <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
-                <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
-                <li><i class="bi bi-check"></i> <span>Pharetra massa massa ultricies</span></li>
-                <li><i class="bi bi-check"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-              </ul>
+              <h3>Plan 5</h3>
+              <h4><sup>Rp</sup>10.000.000<span>/Paket</span></h4>
+              <a href="#" class="buy-btn">Wakaf Sekarang</a>
+            </div>
+          </div><!-- End Pricing Item -->
+
+          <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="360">
+            <div class="pricing-item">
+              <h3>Plan 6</h3>
+              <h4><sup>Jumlah Lain</sup></h4>              
               <a href="#" class="buy-btn">Wakaf Sekarang</a>
             </div>
           </div><!-- End Pricing Item -->
@@ -792,82 +755,9 @@ yang bernama KH Sirojurrosyidin, gelar itu sendiri diberikan kepada beliau atas 
 
       </div>
 
-    </section><!-- /Testimonials Section -->
+    </section>
 
-    <!-- Faq 2 Section -->
-    <section id="faq-2" class="faq-2 section">
-
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Frequently Asked Questions</h2>
-        <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-      </div><!-- End Section Title -->
-
-      <div class="container">
-
-        <div class="row justify-content-center">
-
-          <div class="col-lg-10">
-
-            <div class="faq-container">
-
-              <div class="faq-item faq-active" data-aos="fade-up" data-aos-delay="200">
-                <i class="faq-icon bi bi-question-circle"></i>
-                <h3>Non consectetur a erat nam at lectus urna duis?</h3>
-                <div class="faq-content">
-                  <p>Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item" data-aos="fade-up" data-aos-delay="300">
-                <i class="faq-icon bi bi-question-circle"></i>
-                <h3>Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque?</h3>
-                <div class="faq-content">
-                  <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item" data-aos="fade-up" data-aos-delay="400">
-                <i class="faq-icon bi bi-question-circle"></i>
-                <h3>Dolor sit amet consectetur adipiscing elit pellentesque?</h3>
-                <div class="faq-content">
-                  <p>Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item" data-aos="fade-up" data-aos-delay="500">
-                <i class="faq-icon bi bi-question-circle"></i>
-                <h3>Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?</h3>
-                <div class="faq-content">
-                  <p>Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-              <div class="faq-item" data-aos="fade-up" data-aos-delay="600">
-                <i class="faq-icon bi bi-question-circle"></i>
-                <h3>Tempus quam pellentesque nec nam aliquam sem et tortor consequat?</h3>
-                <div class="faq-content">
-                  <p>Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in</p>
-                </div>
-                <i class="faq-toggle bi bi-chevron-right"></i>
-              </div><!-- End Faq item-->
-
-            </div>
-
-          </div>
-
-        </div>
-
-      </div>
-
-    </section><!-- /Faq 2 Section -->
-
-    <!-- Contact Section -->
-    <section id="contact" class="contact section">
+        <section id="contact" class="contact section">
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">

@@ -877,7 +877,8 @@ section,
 
 .hero .btn-get-started {
   color: var(--contrast-color);
-  background: var(--accent-color);
+  /* background: var(--accent-color); */
+  background: #F8B400;
   font-family: var(--heading-font);
   font-weight: 500;
   font-size: 15px;
@@ -1545,7 +1546,8 @@ section,
 }
 
 .pricing .pricing-item {
-  background-color: var(--contrast-color);
+  /* background-color: var(--contrast-color); */
+  background-color: #18978f;
   box-shadow: 0 3px 20px -2px color-mix(in srgb, var(--default-color), transparent 90%);
   border-top: 4px solid var(--background-color);
   padding: 60px 40px;
@@ -1557,10 +1559,12 @@ section,
   font-weight: 600;
   margin-bottom: 15px;
   font-size: 20px;
+  color: #ffffff;
+  
 }
 
 .pricing h4 {
-  color: var(--accent-color);
+  color: #ffffff;  
   font-size: 48px;
   font-weight: 400;
   font-family: var(--heading-font);
@@ -1572,7 +1576,8 @@ section,
 }
 
 .pricing h4 span {
-  color: color-mix(in srgb, var(--default-color), transparent 50%);
+  /* color: color-mix(in srgb, var(--default-color), transparent 50%); */
+  color: #fff;
   font-size: 18px;
 }
 
@@ -1609,8 +1614,8 @@ section,
 }
 
 .pricing .buy-btn {
-  color: var(--accent-color);
-  background-color: var(--background-color);
+  color: #ffffff;
+  background-color: #F8B400;
   display: inline-block;
   padding: 8px 35px 10px 35px;
   border-radius: 50px;
@@ -1623,7 +1628,8 @@ section,
 }
 
 .pricing .buy-btn:hover {
-  background: var(--accent-color);
+  background: #ffc107;
+  color: #fff;
   color: var(--contrast-color);
 }
 
@@ -1632,7 +1638,7 @@ section,
 }
 
 .pricing .featured .buy-btn {
-  background: var(--accent-color);
+  background: #ffc107;
   color: var(--contrast-color);
 }
 
